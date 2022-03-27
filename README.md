@@ -1,0 +1,52 @@
+## EJERCICIOS BASICOS DE APLICACION DE OPERADORES EN JAVA
+- Oper_01. Operador aritmètico + (suma) (I)
+- Oper_02. Operador aritmètico + (suma) (II))
+- Oper_03. Operador aritmètico + (suma (III))
+- Oper_04. Operador aritmètico - (resta))
+- Oper_05. Operador aritmètico * (multiplicación)
+- Oper_06. Operador aritmètico / (división)
+- Oper_07. Operador aritmètico % (módulo o residuo)
+- Oper_09. Operador aritmético ++ (incremento)
+- Oper_10. Operador aritmético -- (decremento)
+- Oper_11. Operador de asignación = (igualdad)
+- Oper_12. Operador de asignación += (suma)
+- Oper_13. Operador de asignación = (igualdad) (bis)
+- Oper_14. Operador de asignación += (suma) (bis)
+- Oper_15. Operador de asignación -= (resta)
+- Oper_16. Operador de asignación *= (multiplicación)
+- Oper_17. Operador de asignación /= (división)
+- Oper_18. Operador de asignación %= (módulo o residuo)
+- Oper_19. Operador de asignación &= (and bit a bit)
+- Oper_20. Operador de asignación |= (or bit a bit)
+- Oper_21. Operador de asignación ^= (xor bit a bit)
+- Oper_22. Operador de asignación >>= (shift right)
+- Oper_23. Operador de asignación <<= (shift left)
+- Oper_24. Operador de comparación == (igual a)
+- Oper_25. Operador de comparación != (no igual a o diferente de)
+- Oper_26. Operador de comparación > (mayor que)
+- Oper_27. Operador de comparación < (menor que)
+- Oper_28. Operador de comparación >= (mayor que o igual a)
+- Oper_29. Operador de comparación <= (menor que o igual a)
+- Oper_30. Operador lógico && (and)
+- Oper_31. Operador lógico || (or) 
+- Oper_32. Operador lógico ! (not)
+- Oper_33. Multiplica 2 números e imprime el resultado.
+- Oper_34. Divide 2 numeros e imprime el resultado 
+- Oper_35. Incrementa en 1 el valor de una variable e imprime el resultado
+# HASTA AQUI EJERCICIOS RESUELTOS Y PROPUESTO DEL TUTORIAL DE JAVA DE W3SCHOOLS.
+# DESDE AQUI EJERCICIOS RESUELTOS DEL TOMO 1 DE ELECTRONICA PRACTICA, capitulos 1, 2
+- Oper_36. Suma un valor a una variable e imprime el resultado
+- Oper_37. Suma 2 numeros complejos
+- Oper_38. Resta un numero complejo de otro
+- Oper_39. Multiplica dos números complejos
+- Oper_40. Determina la inversa de un número complejo
+- Oper_41. Determina las raices de una ecuación cuadrática. Caso 1: Raices reales y diferentes
+- Oper_42. Determina las raices de una ecuación cuadrática. Caso 1: Raices reales e iguales
+- Oper_43. Determina la magnitud de la impedancia y el àngulo de fase de un circuito RL o RC serie
+- Oper_44. Determina la resistencia y el angulo de fase de un circuito RC o RL serie
+- Oper_45.Determina la admitancia compleja de un circuito RL o RC SERIE
+- Oper_46. Determina la cantidad de corriente a través de un conductor
+- Oper_47. Determina la cantidad de trabajo necesaria para desplazar una carga entre dos puntos
+- Oper_48. Determina la resistencia eléctrica de un trozo de conductor de un material dado
+- Oper_49. Determina la conductividad y la conductancia de un trozo de conductor de unn material dado
+- Oper_50. Determina la resistencia de carga de un circuito resistivo simple 
